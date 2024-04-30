@@ -1,0 +1,39 @@
+.bg-container{
+    background-color: #fff;
+    height: 100vh;
+    background-size: cover;
+}
+.card{
+    border: 2px solid rgb(172, 170, 170);
+    width: 600px;
+    height: 430px;
+    background-color:white;
+    border-radius: 10px;
+    margin: 200px auto;
+    
+
+}
+.heading{
+    color: rgb(44, 42, 42);
+    font-size: 33px;
+    font-family: sans-serif;
+    padding: 10px 30px;
+}
+.para{
+    font-size: 26px;
+    color: grey;
+    font-weight: 500;
+    padding: 0 30px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px 40px;
+}
+h2{
+    border-top: 2px solid lightgray;
+    padding: 20px 30px;
+    color: rgb(44, 129, 178);
+    
+}
